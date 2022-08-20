@@ -1,2 +1,5 @@
 # CS-250-T6587
 Software Development Lifecycle 22EW6
+How I tend to interpret user needs is by trying to break down what was asked to be incorporated in the end product and try to clarify any vague features. The user stories help in this by breaking down each feature into stories and allowing us to prioritize and focus on more important features first.
+I approach developing programs by determining which features would be considered sub categories of the same thing and attempting to use a similar base code to save time and lines of code. The agile approach I would hope to incorporate would have to be the sprints, taking on a program in functional chunks one at a time would help in not only the focusing aspect, but also would allow us to see the resulting functionality after each sprint to determine if we got the feature correct.
+Being a good team member in software development, to me, means being open about where you are in the project. Even if that means letting them know you don’t quite understand the assignment or are far behind. Always ask for help.  It also means doing your fair share in the project and aslo keeping the logs on your development updated. 
